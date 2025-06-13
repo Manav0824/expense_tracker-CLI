@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "date": "2025-06-13",
+        "description": "lunch",
+        "amount": 200.0
+    },
+    {
+        "id": 3,
+        "date": "2025-06-13",
+        "description": "gym",
+        "amount": 80000.0
+    }
+]
