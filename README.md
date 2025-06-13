@@ -52,4 +52,5 @@ While building this project, I practiced real-world use of Python file handling,
 
 ## 📎 Project URL
 
-[GitHub Repository]
+[GitHub Repository]https://github.com/Manav0824/expense_tracker-CLI
+project url-https://roadmap.sh/projects/expense-tracker
